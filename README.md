@@ -42,7 +42,8 @@ plt.title("Average Filter Image")
 plt.axis("off")
 plt.show()
 ```
-![image](https://github.com/user-attachments/assets/0803f3da-7cd5-46f4-a01b-e62635486497)
+<img width="717" height="457" alt="image" src="https://github.com/user-attachments/assets/ade2a821-ff59-44a2-aaec-d60a39371525" />
+
 
 ### Using Weighted Averaging Filter
 ```Python
