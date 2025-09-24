@@ -59,7 +59,8 @@ plt.title("Weighted Average Filter Image")
 plt.axis("off")
 plt.show()
 ```
-![image](https://github.com/user-attachments/assets/30371fc8-ee70-4799-ba6a-c4d8f952d1ae)
+<img width="302" height="411" alt="image" src="https://github.com/user-attachments/assets/104a32a7-7351-4284-a298-6e570d586080" />
+
 
 ### Using Gaussian Filter
 ```Python
@@ -74,7 +75,7 @@ plt.title("Gaussian Blur")
 plt.axis("off")
 plt.show()
 ```
-![image](https://github.com/user-attachments/assets/dc51c1e6-73a4-484a-a64c-d982a2feb06a)
+<img width="302" height="411" alt="image" src="https://github.com/user-attachments/assets/c8a6984a-1736-489d-bbe9-0ccf69cbe446" />
 
 ### Using Median Filter
 ```Python
@@ -89,7 +90,8 @@ plt.title("Median Blur")
 plt.axis("off")
 plt.show()
 ```
-![image](https://github.com/user-attachments/assets/7b52f783-b351-4fe6-a1a5-c4dd865b12af)
+<img width="302" height="411" alt="image" src="https://github.com/user-attachments/assets/7be24a7c-8a3d-4957-ba99-281735b2f683" />
+
 
 ### Sharpening Filters
 ## Using Laplacian Linear Kernal
@@ -106,7 +108,8 @@ plt.title("Laplacian Kernel")
 plt.axis("off")
 plt.show()
 ```
-![image](https://github.com/user-attachments/assets/c6f1cba2-f9d9-43b3-875e-ccb52411f840)
+<img width="302" height="411" alt="image" src="https://github.com/user-attachments/assets/1db195a5-79f5-454a-8b03-c37a053d5437" />
+
 
 ### Using Laplacian Operator
 ```Python
@@ -122,6 +125,7 @@ plt.title("Laplacian Operator")
 plt.axis("off")
 plt.show()
 ```
-![image](https://github.com/user-attachments/assets/f1669265-f553-438d-85eb-5636ebc0e5c6)
+<img width="302" height="411" alt="image" src="https://github.com/user-attachments/assets/9593a9c1-6216-4f34-bb9e-b513f745f978" />
+
 ## Result:
 Thus the filters are designed for smoothing and sharpening the images in the spatial domain.
